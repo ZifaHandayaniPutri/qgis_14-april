@@ -1,0 +1,1 @@
+var json_TERMINALBUS_PT_50K_11 = {"type":"FeatureCollection","name":"TERMINALBUS_PT_50K_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

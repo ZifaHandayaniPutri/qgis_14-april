@@ -1,0 +1,1 @@
+var json_KESEHATAN_PT_50K_14 = {"type":"FeatureCollection","name":"KESEHATAN_PT_50K_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
